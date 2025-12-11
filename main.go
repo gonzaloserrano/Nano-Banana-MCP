@@ -21,7 +21,7 @@ const (
 	serverName      = "nano-banana-mcp"
 	serverVersion   = "2.0.0"
 
-	geminiModel   = "gemini-2.0-flash-exp"
+	geminiModel   = "gemini-2.5-flash-image"
 	geminiBaseURL = "https://generativelanguage.googleapis.com/v1beta/models"
 
 	defaultOutputDir = "generated"
